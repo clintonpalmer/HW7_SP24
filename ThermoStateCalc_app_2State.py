@@ -28,7 +28,7 @@
 #                    first open the GUI, you must perform the State 1 calculations before calculating State 2.
 #                    After pressing the "Calculate State 1" button for the first time, the order does not matter.
 #
-#
+# Chatgpt assisted with the developement of this code.
 
 
 #region imports
